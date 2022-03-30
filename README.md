@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World
+# Testing with Jest
 
-> A simple hello world project
+> A simple AAA with jest
 
 ## Built With
 
